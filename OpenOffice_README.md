@@ -66,11 +66,10 @@ See the [full license](http://www.openoffice.org/license.html).
 
 
 ## Installation
-- Close all programs before starting
-- Administrator rights required
-- Java install on Windows 98 may request a reboot (can be ignored)
+1. Close all programs before starting
+2. Accept Administrator rights
 
-
+> Java install on Windows 98 may request a reboot
 
 ## Issues & Workarounds
 - **Startup issues:** Update graphics drivers; disable OpenGL via:
