@@ -97,10 +97,8 @@ ZoomText version 7.11+ required (downloaded after June 12, 2002).
 
 ## Customization
 ### Keyboard Shortcuts
-- Conflicts may occur with OS-defined shortcuts
-- Customize via `Tools → Customize → Keyboard`
 
-
+Customize via `Tools → Customize → Keyboard`
 
 ## Registration & Feedback
 ### Product Registration
